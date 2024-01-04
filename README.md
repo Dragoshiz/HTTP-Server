@@ -21,7 +21,7 @@ This project presents a custom-built HTTP server, developed in compliance with t
 ### Installation
 1. Clone the repository:
 ```
-git clone [URL to repository]https://github.com/Dragoshiz/HTTP-Server/
+git clone https://github.com/Dragoshiz/HTTP-Server/
 ```
 3. Navigate to project directory:
 ```
